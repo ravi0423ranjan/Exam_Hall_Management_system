@@ -74,7 +74,11 @@ font-size:18.5px;
 	<div class="row" style="border-bottom:1px solid green">
 		<div class="col-md-5">
 			<h1 style="color:green; font-size:37px;">Central College Of Technology</h1>
+<<<<<<< HEAD
 			<h1 style="color:green; font-size:25px;">  engineering <br/>college Of India</h1>
+=======
+			<h1 style="color:green; font-size:25px;">only Centralised engineering <br/>college Of India</h1>
+>>>>>>> 4f5fa4dcd05d64f8d63b2781874ab4b9f08eae83
 		</div>
 		<div class="logo"><div class="col-md-2">
 			<img src="logo.png">
