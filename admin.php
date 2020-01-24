@@ -14,7 +14,7 @@
  </head>
  <body>
  <div class="admin">
- <a href="project.html">Home</a>
+ <a href="project.html">Homeravi</a>
  <form id="login" action="" method="post">
 	    Roll number:<input style="width:170px;"type="text" name="roll"/>
 		</br>
