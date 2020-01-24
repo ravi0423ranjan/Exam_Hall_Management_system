@@ -27,7 +27,7 @@ body{background-color:lavender;}
 		 <h2 style="text-decoration:underline; text-align:center;">For Administration</h2>
 	   <h3 style="text-align:center;">login</h3>
 	   <form action="" method="post">
-	    Username:<input style="width:190px;"type="text" name="username"/>
+	    User:<input style="width:190px;"type="text" name="username"/>
 		</br>
 		</br>
 		Password:<input style="width:190px;"type="password" name="pass"/>
